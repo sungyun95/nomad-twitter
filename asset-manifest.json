@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sungyun95/nomad-twitter.git/static/css/main.e6d335da.css",
+    "main.js": "/sungyun95/nomad-twitter.git/static/js/main.f05d7cd0.js",
+    "index.html": "/sungyun95/nomad-twitter.git/index.html",
+    "main.e6d335da.css.map": "/sungyun95/nomad-twitter.git/static/css/main.e6d335da.css.map",
+    "main.f05d7cd0.js.map": "/sungyun95/nomad-twitter.git/static/js/main.f05d7cd0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6d335da.css",
+    "static/js/main.f05d7cd0.js"
+  ]
+}
